@@ -1,18 +1,21 @@
-# 🚀 Project Title
+# 🚀 CodeAlpha Tasks
 
-Short, one-sentence description of what this project does.
+Welcome to my **CodeAlpha Tasks** repository! This project contains the assignments and tasks completed during my internship at CodeAlpha.
 
-## ✨ Features
-* **Feature 1:** Brief description.
-* **Feature 2:** Brief description.
+---
 
-## 🛠️ Tech Stack
-* Node.js, React, MongoDB (Replace with yours)
+## 🛠️ Project Structure
 
-## 🚀 Quick Start
+This repository holds the source code and documentation for my assigned tasks:
+* `README.md` - Project documentation and overview.
+* `index.html` - The main entry point for the live application web interface.
 
-1. **Clone & Install:**
+---
+
+## 🚀 How to Run the Project Locally
+
+To view or run this project on your local machine, follow these simple steps:
+
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/username/repo.git](https://github.com/username/repo.git)
-   cd repo
-   npm install
+   git clone [https://github.com/devisri0731/codealpha_tasks.git](https://github.com/devisri0731/codealpha_tasks.git)
